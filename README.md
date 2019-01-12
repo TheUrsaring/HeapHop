@@ -17,6 +17,7 @@ Else if you compiled by yourself, open cmd at "HeapHop\Debug" directory.
 Now type the following command:
 
 ` > HeapHop.exe myTarget.exe`
+
 ` > type log.txt`
 
 The first command is to use HeapHop. If the target needs some aregument, put them right after "myTarget.exe".
