@@ -15,8 +15,9 @@ Using HeapHop:
 If you use are using the release directory, just open cmd at the directory path.
 Else if you compiled by yourself, open cmd at "HeapHop\Debug" directory.
 Now type the following command:
-MyPath\HeapHop> HeapHop.exe myTarget.exe
-MyPath\HeapHop> type log.txt
+
+` > HeapHop.exe myTarget.exe
+  > type log.txt`
 
 The first command is to use HeapHop. If the target needs some aregument, put them right after "myTarget.exe".
 The second command is to print the log file.
